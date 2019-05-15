@@ -17,7 +17,7 @@ public class ArrayExample3Week1Tester {
         System.out.println(obj1.getName());
         
         ArrayExample3Week1 obj2 = new ArrayExample3Week1();
-        obj2.setName("Manpreet Singh Saini/"); 
+        obj2.setName("Manpreet Singh saini"); 
         System.out.println(obj2.getName());
         
         ArrayExample3Week1[] name = new ArrayExample3Week1[5];
