@@ -27,7 +27,7 @@ public class ArrayExample2Week1 {
             word[i] = word1.charAt(i); 
         }
         
-        for(int count = (word.length-1); count > 0; count--){
+        for(int count = (word.length-1); count >= 0; count--){
         System.out.print(word[count]);
     }
     }
