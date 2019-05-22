@@ -30,4 +30,4 @@ public class ArrayExample3Week1Tester {
             System.out.print(name1.getName());
         }
     }//End of main method
-}
+}//End of class
