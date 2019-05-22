@@ -23,12 +23,12 @@ public class ArrayExample3Week1Tester {
         obj2.setName("Manpreet Singh Saini"); 
         System.out.println(obj2.getName());
         
-        ArrayExample3Week1[] name = new ArrayExample3Week1[5];
+        ArrayExample3Week1[] name = new ArrayExample3Week1[2];
         name[1] = obj1;
         name[2] = obj2;
         
-        for (ArrayExample3Week1 name1 : name) {
-            System.out.print(name1.getName());
+        for (int i = 0; i < 2; i++) {
+            System.out.print(name[1].getName());
         }
     }//End of main method
 }//End of class
