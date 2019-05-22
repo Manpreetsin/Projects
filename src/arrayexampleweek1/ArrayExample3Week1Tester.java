@@ -13,6 +13,7 @@ package arrayexampleweek1;
  */
 public class ArrayExample3Week1Tester {
     
+    //Definition of main method
     public static void main(String[] args){
         ArrayExample3Week1 obj1 = new ArrayExample3Week1();
         obj1.setName("Manpreet"); 
