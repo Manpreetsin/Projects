@@ -29,5 +29,5 @@ public class ArrayExample3Week1Tester {
         for (ArrayExample3Week1 name1 : name) {
             System.out.print(name1.getName());
         }
-    }
+    }//End of main method
 }
