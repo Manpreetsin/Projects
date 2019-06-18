@@ -18,13 +18,11 @@ public class Application {
 		// TODO - implement Application.getName
 		throw new UnsupportedOperationException();
 		//ManpreetSingh
+                //age18
 		
 	}
 
-	/**
-	 * 
-	 * @param name
-	 */
+	
 	public void setName(int name) {
 		this.name = name;
 	}
