@@ -17,6 +17,8 @@ public class Application {
 	public void getName() {
 		// TODO - implement Application.getName
 		throw new UnsupportedOperationException();
+		//ManpreetSingh
+		
 	}
 
 	/**
